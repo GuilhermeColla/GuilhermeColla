@@ -1,16 +1,12 @@
-### Hi there 👋
+### Who am I
+**Name:** Guilherme Colla  
+**Date of birth:** 15/06/1997  
+**Education:** Undergratuate in Electrical Engineering at *FEIS - UNESP*  
+**Contact:** guilherme.colla.gc@gmail.com  
+**Pronouns:** He / Him  
 
-<!--
-**GuilhermeColla/GuilhermeColla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+**Languages:** Brazilian Portuguese, English  
+**Programming Languages:** Python, SQL, HTML and CSS.  
+**Hobbies:** Games, anime, reading, playing the guitar, gym and being healthy.
